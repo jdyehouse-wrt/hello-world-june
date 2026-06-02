@@ -19,7 +19,6 @@ This is another thing to add AFTER the last step (which was after the clone step
 
 ## Section 2
 
-Etc.
 
 *italics*
 
