@@ -1,0 +1,20 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: a3137ea3-a54c-4c13-9900-eba9f2f9a48f
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jdyehouse-wrt/hello-world-june
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  abbreviations:
+   OTIME: Ovarian Tunor Other Stuff
+   ML: Machine Learning
+   WRT: Writing and Rhetoric
+   CBR: These are the CollaBRO-ations
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
